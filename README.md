@@ -1,4 +1,4 @@
-# Pinkish
+# Pinkish : Click On Releases -->
 KoGaMa Texture Pack By Cry(ilovecry)
 
 Pink themed texture pack, but you can pick between Fully Pink theme pack or my person with black weapons.
